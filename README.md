@@ -1,1 +1,1 @@
-# KostkaZniszczenia
+Ćwiczenia z javy i git
